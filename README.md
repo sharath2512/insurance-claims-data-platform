@@ -53,3 +53,14 @@ Source Systems
 - Introduced controlled source data quality issues
 - Created Bronze storage structure for customers and hospitals
 - Uploaded generated datasets to ADLS Gen2
+
+### Day 4
+
+- Created Azure Data Factory
+- Configured ADLS Gen2 Linked Service
+- Used Managed Identity for storage connectivity
+- Created source and sink datasets
+- Built ADF Copy pipelines
+- Ingested Customers and Hospitals from Landing to Bronze
+- Validated pipeline execution and copy metrics
+- Tested pipeline rerun behaviour

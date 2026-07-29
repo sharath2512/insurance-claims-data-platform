@@ -65,3 +65,13 @@ The platform will initially work with:
 - Hospitals
 - Claims
 - Payments
+
+Synthetic Python Generator
+          ↓
+Local CSV
+          ↓
+ADLS Landing
+          ↓
+Azure Data Factory
+          ↓
+ADLS Bronze
