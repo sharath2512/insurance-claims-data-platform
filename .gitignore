@@ -23,3 +23,10 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated datasets
+data/source/

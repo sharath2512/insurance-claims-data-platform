@@ -44,3 +44,12 @@ Source Systems
 - Created Azure Storage Account
 - Enabled ADLS Gen2 hierarchical namespace
 - Created the insurance data lake container
+
+### Day 3
+
+- Designed scalable synthetic data generation framework
+- Generated 500,000 customer records
+- Generated 10,000 hospital records
+- Introduced controlled source data quality issues
+- Created Bronze storage structure for customers and hospitals
+- Uploaded generated datasets to ADLS Gen2

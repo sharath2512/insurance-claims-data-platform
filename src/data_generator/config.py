@@ -1,0 +1,9 @@
+CUSTOMER_COUNT = 500_000
+HOSPITAL_COUNT = 10_000
+
+RANDOM_SEED = 42
+
+OUTPUT_DIR = "data/source"
+
+CUSTOMER_FILE = "customers.csv"
+HOSPITAL_FILE = "hospitals.csv"
