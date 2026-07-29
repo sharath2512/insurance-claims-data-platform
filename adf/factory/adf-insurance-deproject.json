@@ -1,0 +1,15 @@
+{
+	"name": "adf-insurance-deproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3778068e-e7df-4fbf-9093-d563e5acc949",
+		"tenantId": "5c90ddac-41c6-456f-8ac6-8bc0facfe185"
+	}
+}
